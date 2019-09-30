@@ -1,2 +1,2 @@
 # Hello-world
-# created by Bertrand
+# created by Bertrand Reinier
